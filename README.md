@@ -37,4 +37,4 @@ je suis la nouvelle phrase
 | git ls-files | | Liste les fichiers suivis par Git |
 | git rm | --cached | | Retirer un ou plusieurs fichiers de l'historique de suivi de Git |
 | git restore | --staged | | Unstage un ou plusieurs fichiers |
-| git branch | -M | Créer ou renommer une branche de travail |
+| git branch | -M | 
