@@ -42,6 +42,7 @@ je suis la nouvelle phrase
 je viens de modifier
 toi meme zgj,lb !zbnjùezgoriogszrjg
 
+<<<<<<< HEAD
 uhfjhfufufuhfughufhgfhghfogfdhgfgfg
 fg
 gffgf
@@ -52,3 +53,6 @@ f
 fg
 fùighqfgHFgilqgFG
 gfgokgJGifjvnjlfvn dvkDOMV; dvmlk;dv
+=======
+je suis un pro 
+>>>>>>> 88b1b350438d3051c5a43babbfdad2eb9b808c59
